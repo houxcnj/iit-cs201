@@ -1,0 +1,4 @@
+1.Display by crime type
+2.Display by day
+3.Display arrest ratio
+Please choose what you want. If you finish, please input -1.

@@ -1,0 +1,52 @@
+The information of the crime event: HX155526, Date is:02/17/2014, Arrest?false, The criminal type: CRIMINAL DAMAGE	Rating is: medium
+The information of the crime event: HX154988, Date is:02/17/2014, Arrest?false, The criminal type: CRIMINAL DAMAGE	Rating is: medium
+The information of the crime event: HX154249, Date is:02/17/2014, Arrest?true, The criminal type: NARCOTICS	Rating is: medium
+The information of the crime event: HX154230, Date is:02/17/2014, Arrest?true, The criminal type: NARCOTICS	Rating is: medium
+The information of the crime event: HX154231, Date is:02/17/2014, Arrest?true, The criminal type: THEFT	Rating is: minor
+The information of the crime event: HX154211, Date is:02/17/2014, Arrest?false, The criminal type: BATTERY	Rating is: medium
+The information of the crime event: HX159683, Date is:02/17/2014, Arrest?false, The criminal type: THEFT	Rating is: minor
+The information of the crime event: HX157357, Date is:02/17/2014, Arrest?false, The criminal type: THEFT	Rating is: minor
+The information of the crime event: HX158319, Date is:02/17/2014, Arrest?false, The criminal type: THEFT	Rating is: minor
+The information of the crime event: HX154600, Date is:02/17/2014, Arrest?false, The criminal type: CRIMINAL DAMAGE	Rating is: medium
+The information of the crime event: HX154833, Date is:02/17/2014, Arrest?false, The criminal type: THEFT	Rating is: minor
+The information of the crime event: HX155702, Date is:02/17/2014, Arrest?false, The criminal type: BATTERY	Rating is: medium
+The information of the crime event: HX154205, Date is:02/17/2014, Arrest?true, The criminal type: NARCOTICS	Rating is: medium
+The information of the crime event: HX154286, Date is:02/17/2014, Arrest?true, The criminal type: BATTERY	Rating is: medium
+The information of the crime event: HX153842, Date is:02/17/2014, Arrest?false, The criminal type: ROBBERY, The crime type with weapons: HANDGUN	Rating is: felony
+The information of the crime event: HX153847, Date is:02/17/2014, Arrest?false, The criminal type: CRIMINAL DAMAGE	Rating is: medium
+The information of the crime event: HX153840, Date is:02/17/2014, Arrest?false, The criminal type: BATTERY, The crime type with weapons: OTHER DANG WEAPON	Rating is: serious
+The information of the crime event: HX153834, Date is:02/17/2014, Arrest?true, The criminal type: CRIMINAL DAMAGE	Rating is: medium
+The information of the crime event: HX153828, Date is:02/17/2014, Arrest?true, The criminal type: NARCOTICS	Rating is: medium
+The information of the crime event: HX154105, Date is:02/17/2014, Arrest?false, The criminal type: ROBBERY	Rating is: medium
+The information of the crime event: HX155847, Date is:02/17/2014, Arrest?true, The criminal type: BATTERY	Rating is: medium
+The information of the crime event: HX154657, Date is:02/17/2014, Arrest?false, The criminal type: CRIMINAL DAMAGE	Rating is: medium
+The information of the crime event: HX154338, Date is:02/17/2014, Arrest?false, The criminal type: BATTERY	Rating is: medium
+The information of the crime event: HX153827, Date is:02/17/2014, Arrest?true, The criminal type: BATTERY	Rating is: medium
+The information of the crime event: HX153822, Date is:02/17/2014, Arrest?true, The criminal type: WEAPONS VIOLATION, The crime type with weapons: HANDGUN	Rating is: felony
+The information of the crime event: HX153768, Date is:02/16/2014, Arrest?false, The criminal type: ROBBERY, The crime type with weapons: HANDGUN	Rating is: felony
+The information of the crime event: HX153685, Date is:02/16/2014, Arrest?false, The criminal type: CRIMINAL DAMAGE	Rating is: medium
+The information of the crime event: HX153716, Date is:02/16/2014, Arrest?true, The criminal type: WEAPONS VIOLATION, The crime type with weapons: HANDGUN	Rating is: felony
+The information of the crime event: HX153702, Date is:02/16/2014, Arrest?true, The criminal type: WEAPONS VIOLATION, The crime type with weapons: HANDGUN	Rating is: felony
+The information of the crime event: HX153687, Date is:02/16/2014, Arrest?false, The criminal type: THEFT	Rating is: minor
+The information of the crime event: HX153789, Date is:02/16/2014, Arrest?false, The criminal type: BATTERY, The crime type with weapons: OTHER DANG WEAPON	Rating is: serious
+The information of the crime event: HX153681, Date is:02/16/2014, Arrest?false, The criminal type: BATTERY	Rating is: medium
+The information of the crime event: HX153885, Date is:02/16/2014, Arrest?false, The criminal type: CRIMINAL DAMAGE	Rating is: medium
+The information of the crime event: HX155917, Date is:02/16/2014, Arrest?false, The criminal type: CRIMINAL DAMAGE	Rating is: medium
+The information of the crime event: HX154166, Date is:02/16/2014, Arrest?false, The criminal type: THEFT	Rating is: minor
+The information of the crime event: HX153734, Date is:02/16/2014, Arrest?false, The criminal type: BATTERY	Rating is: medium
+The information of the crime event: HX153686, Date is:02/16/2014, Arrest?false, The criminal type: BATTERY, The crime type with weapons: OTHER DANG WEAPON	Rating is: serious
+The information of the crime event: HX153474, Date is:02/16/2014, Arrest?false, The criminal type: BATTERY, The crime type with weapons: OTHER DANG WEAPON	Rating is: serious
+The information of the crime event: HX153432, Date is:02/15/2014, Arrest?false, The criminal type: ROBBERY, The crime type with weapons: HANDGUN	Rating is: felony
+The information of the crime event: HX170590, Date is:02/15/2014, Arrest?false, The criminal type: THEFT	Rating is: minor
+The information of the crime event: HX153539, Date is:02/15/2014, Arrest?false, The criminal type: THEFT	Rating is: minor
+The information of the crime event: HX153417, Date is:02/15/2014, Arrest?true, The criminal type: BATTERY	Rating is: medium
+The information of the crime event: HX153387, Date is:02/15/2014, Arrest?true, The criminal type: WEAPONS VIOLATION, The crime type with weapons: HANDGUN	Rating is: felony
+The information of the crime event: HX153514, Date is:02/15/2014, Arrest?true, The criminal type: WEAPONS VIOLATION, The crime type with weapons: HANDGUN	Rating is: felony
+The information of the crime event: HX153176, Date is:02/15/2014, Arrest?false, The criminal type: BATTERY, The crime type with weapons: OTHER DANG WEAPON	Rating is: serious
+The information of the crime event: HX153255, Date is:02/15/2014, Arrest?true, The criminal type: WEAPONS VIOLATION, The crime type with weapons: HANDGUN	Rating is: felony
+The information of the crime event: HX155007, Date is:02/15/2014, Arrest?false, The criminal type: THEFT	Rating is: minor
+The information of the crime event: HX153137, Date is:02/15/2014, Arrest?true, The criminal type: WEAPONS VIOLATION, The crime type with weapons: HANDGUN	Rating is: felony
+The information of the crime event: HX153128, Date is:02/15/2014, Arrest?true, The criminal type: WEAPONS VIOLATION, The crime type with weapons: HANDGUN	Rating is: felony
+The information of the crime event: HX152732, Date is:02/15/2014, Arrest?false, The criminal type: THEFT	Rating is: minor
+The information of the crime event: HX154254, Date is:02/15/2014, Arrest?false, The criminal type: BATTERY, The crime type with weapons: OTHER DANG WEAPON	Rating is: serious
+The information of the crime event: HX153465, Date is:02/15/2014, Arrest?false, The criminal type: BATTERY, The crime type with weapons: OTHER DANG WEAPON	Rating is: serious

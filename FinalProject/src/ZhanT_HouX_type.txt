@@ -1,0 +1,6 @@
+1.battery
+2.robbery
+3.narcotics
+4.theft
+5.weapons violation
+6.criminal damage
